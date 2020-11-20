@@ -1,0 +1,19 @@
+4b2f467 HEAD@{0}: merge develop: Fast-forward
+39abbef HEAD@{1}: checkout: moving from EPMRDUASTT-425_2 to EPMRDUASTT-425
+4b2f467 HEAD@{2}: checkout: moving from EPMRDUASTT-425_1 to EPMRDUASTT-425_2
+4b2f467 HEAD@{3}: merge develop: Fast-forward
+3781fa5 HEAD@{4}: checkout: moving from develop to EPMRDUASTT-425_1
+4b2f467 HEAD@{5}: merge EPMRDUASTT-425_2: Fast-forward
+7547ac3 HEAD@{6}: checkout: moving from EPMRDUASTT-425_1 to develop
+3781fa5 HEAD@{7}: Branch: renamed refs/heads/EPMDUASTT-425_1 to refs/heads/EPMRDUASTT-425_1
+3781fa5 HEAD@{9}: checkout: moving from develop to EPMDUASTT-425_1
+7547ac3 HEAD@{10}: checkout: moving from EPMRDUASTT-425_2 to develop
+4b2f467 HEAD@{11}: commit: Tied styles
+f9a8c6c HEAD@{12}: commit: Created styles folder
+3781fa5 HEAD@{13}: checkout: moving from EPMDUASTT-425_1 to EPMRDUASTT-425_2
+3781fa5 HEAD@{14}: commit: Changed index.html
+706bf52 HEAD@{15}: commit: Created index.js and add some images
+7547ac3 HEAD@{16}: checkout: moving from develop to EPMDUASTT-425_1
+7547ac3 HEAD@{17}: commit: Create folder EPMRDUASTT-425
+39abbef HEAD@{18}: checkout: moving from main to develop
+39abbef HEAD@{19}: clone: from https://github.com/SkiF-ex/test.git
